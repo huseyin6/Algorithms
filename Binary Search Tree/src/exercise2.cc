@@ -1,7 +1,7 @@
 /*
  Author:
     Huseyin Karakaya
-    CENG
+    Computer Science
 */
 
 #include "exercise2_utils.hpp"
